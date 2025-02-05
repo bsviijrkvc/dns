@@ -1,4 +1,3 @@
-#manga18fx.com
 .magsrv.com
 .exosrv.com
 .adsrvr.org
@@ -12,8 +11,8 @@
 .crwdcntrl.net
 .reshowsvole.shop
 .pemsrv.com
-
-#kemono.su
+.disqus.com
+.disquscdn.com
 .appointeeivyspongy.com
 .bankingbloatedcaptive.com
 .mnaspm.com
@@ -26,8 +25,6 @@
 .qunrcibhis.com
 .isolatedovercomepasted.com
 .alwvpaomv.com
-
-#hitomi.la
 .exdynsrv.com
 .9421d59b1d.com
 .capndr.com
@@ -43,3 +40,11 @@
 .insecure-motor.pro
 .subylibmuiztq.com
 .visargadimmit.com
+.ricarvort.com
+.cloudfront.net
+.55f4605f6d.com
+.sjdgkfhwkrkmi.com
+.hwfgyibzh.com
+.d170971757.com
+.iwrxsrjl.com
+.shopee.co.th
